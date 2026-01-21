@@ -43,6 +43,10 @@ The project relies on the following database structure:
 - **`friend_requests`**: Manages pending, accepted, or rejected friend requests.
 - **`blocks`**: Handles user blocking logic.
 
-## License
 
-This project is for educational purposes.
+
+<img width="1920" height="1020" alt="Screenshot 2026-01-21 233224" src="https://github.com/user-attachments/assets/13cfa768-e4d7-4ac3-b9db-2c85ff729063" />
+<img width="1920" height="1020" alt="Screenshot 2026-01-21 233205" src="https://github.com/user-attachments/assets/144abacb-01de-485d-a74a-d44e2019d980" />
+<img width="1920" height="1020" alt="Screenshot 2026-01-21 233157" src="https://github.com/user-attachments/assets/d5b7482c-da4b-431c-8b7a-b5b6c41eda20" />
+
+
